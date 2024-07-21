@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/indian-league/static/css/main.133fbea1.css",
+    "main.js": "/indian-league/static/js/main.e2d6c877.js",
+    "static/js/453.d0cd00b5.chunk.js": "/indian-league/static/js/453.d0cd00b5.chunk.js",
+    "index.html": "/indian-league/index.html",
+    "main.133fbea1.css.map": "/indian-league/static/css/main.133fbea1.css.map",
+    "main.e2d6c877.js.map": "/indian-league/static/js/main.e2d6c877.js.map",
+    "453.d0cd00b5.chunk.js.map": "/indian-league/static/js/453.d0cd00b5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.133fbea1.css",
+    "static/js/main.e2d6c877.js"
+  ]
+}
